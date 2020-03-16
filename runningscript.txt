@@ -1,0 +1,2 @@
+chmod +x script-name-here.sh
+./script-name-here.sh
