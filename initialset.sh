@@ -10,3 +10,4 @@ python3 -m venv venv
 source venv/bin/activate
 pip install flask
 pip3 freeze | grep -E '(Flask|Jinja)'
+sudo apt install -y tree
